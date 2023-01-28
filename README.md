@@ -1,24 +1,10 @@
-# README
+# AULA DE RUBY ONDE CONSEGUI COLOCAR A PAGINA INICIAL PERSONALIZADA
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+PROFESSOR RODRIGO PIMENTEL OBRIGADO
 
-Things you may want to cover:
+NESTA AULA APRENDI A USAR GIT:
 
-* Ruby version
+* COMANDOS RUBY
 
-* System dependencies
+* RAILS
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
