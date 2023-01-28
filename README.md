@@ -7,4 +7,6 @@ NESTA AULA APRENDI A USAR GIT:
 * COMANDOS RUBY
 
 * RAILS
+* nova branch para entendimento
+
 
